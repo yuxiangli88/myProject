@@ -17,6 +17,13 @@ public class HelloWorld {
 		Map<String,Object> map = new HashMap();
 		map.put("msg", "helloworld");
 		
+		System.prinlt.out("你好函数及活动时间黑胡椒...");
+		System.prinlt.out("你好函数及活动时间黑胡椒...");
+		System.prinlt.out("你好函数及活动时间黑胡椒...");
+		System.prinlt.out("你好函数及活动时间黑胡椒...");
+		System.prinlt.out("你好函数及活动时间黑胡椒...");
+		System.prinlt.out("你好函数及活动时间黑胡椒...");
+		
 		return map;
 	}
 	
